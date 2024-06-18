@@ -40,7 +40,7 @@ The data used in this project includes:
 - Death data (smierci.csv)
 - Hospital data (szpitale.xlsx)
 - Combined birth data (woje_uro.csv)
-- /wojewodztwa - folder containing GIS data required for visualisation
+- wojewodztwa/ - folder containing GIS data required for visualisation
 These datasets provide a comprehensive view of the demographic changes in Poland during the specified period.
 
 ## Prerequisites
